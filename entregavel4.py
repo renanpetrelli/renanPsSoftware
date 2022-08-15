@@ -4,7 +4,7 @@ listaPrimos = [2,3,5,7,11];
 
 numero = 12;
 
-#Percorrendo todos os números menores que 100
+#Percorrendo todos os números menores que 1000
 while (numero < 1000):
 
     if(numero %2 ==0):
