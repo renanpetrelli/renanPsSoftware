@@ -1,1 +1,3 @@
 # renanPsSoftware
+01 - Iniciei o programa com uma estrutura de repetição, que a cada interação iria adicionar um
+elemento na lista. A cada interação o usuário é perguntado se ele deseja inserir mais um elemento, se o usuário inserir uma entrada diferente de 's', uma varivel booleana irá alterar o valor para false , com isso, a estrutura de repetição irá encerrar. O próximo passo é calcular qual o index do ultimo elemento da lista, visto que não se sane quantos elementos foram preenchidos. O ultimo elemento de uma lista é encontrado através do tamanho da lista subtraindo por um. Com o index encontrado, agora é só comparar o primeiro com o último.
