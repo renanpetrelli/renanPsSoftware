@@ -1,0 +1,4 @@
+planeta: {
+  nome: "Terra",
+  raio: 6371
+}
