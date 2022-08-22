@@ -3,6 +3,5 @@
   <rosparam file="$(find pkg)/param/satelite.yaml" />
 
   <node name="frame_estrela" pkg="pkg" type="tf_estrela.py" output="screen"/>
-  <node name="frame_planeta" pkg="pkg" type="tf_estrela.py" output="screen"/>
-  <node name="frame_satelite" pkg="pkg" type="tf_estrela.py" output="screen"/>
+  <node name="frame_planeta" pkg="pkg" type="tf_planeta.py" output="screen"/>
 </launch>
